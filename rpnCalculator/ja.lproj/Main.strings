@@ -1,0 +1,75 @@
+
+/* Class = "UIButton"; normalTitle = "C"; ObjectID = "1T0-TO-SMV"; */
+"1T0-TO-SMV.normalTitle" = "C";
+
+/* Class = "UIButton"; normalTitle = ")"; ObjectID = "2ur-qf-PiX"; */
+"2ur-qf-PiX.normalTitle" = ")";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "JXC-Rj-mLC"; */
+"JXC-Rj-mLC.normalTitle" = "9";
+
+/* Class = "UIButton"; normalTitle = "×"; ObjectID = "Jtx-QO-guK"; */
+"Jtx-QO-guK.normalTitle" = "×";
+
+/* Class = "UILabel"; text = "Reverse Polish Notation"; ObjectID = "Kf3-rd-smA"; */
+"Kf3-rd-smA.text" = "逆ポーランド記法";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Kih-oj-gBL"; */
+"Kih-oj-gBL.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "LBn-ni-eFs"; */
+"LBn-ni-eFs.normalTitle" = "3";
+
+/* Class = "UILabel"; text = "Infix Notation"; ObjectID = "Lhy-nF-IUK"; */
+"Lhy-nF-IUK.text" = "中間記法";
+
+/* Class = "UIButton"; normalTitle = "="; ObjectID = "MUU-62-l9e"; */
+"MUU-62-l9e.normalTitle" = "=";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "Mfd-hS-ebC"; */
+"Mfd-hS-ebC.normalTitle" = "-";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "OzV-cS-Xfe"; */
+"OzV-cS-Xfe.normalTitle" = "4";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "PRI-L5-2WU"; */
+"PRI-L5-2WU.normalTitle" = "0";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "Sw9-vL-hjx"; */
+"Sw9-vL-hjx.normalTitle" = "+";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "UrH-dn-vYp"; */
+"UrH-dn-vYp.normalTitle" = "2";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "ZQK-xR-kab"; */
+"ZQK-xR-kab.normalTitle" = "5";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Zvc-Er-amK"; */
+"Zvc-Er-amK.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "bOg-Zk-bPZ"; */
+"bOg-Zk-bPZ.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "ddo-pJ-k5l"; */
+"ddo-pJ-k5l.normalTitle" = "8";
+
+/* Class = "UIButton"; normalTitle = "÷"; ObjectID = "glS-6g-IZc"; */
+"glS-6g-IZc.normalTitle" = "÷";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "hWC-ly-s76"; */
+"hWC-ly-s76.normalTitle" = "7";
+
+/* Class = "UIButton"; normalTitle = "("; ObjectID = "jdm-HP-bTd"; */
+"jdm-HP-bTd.normalTitle" = "(";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "nGM-ic-bNK"; */
+"nGM-ic-bNK.normalTitle" = "6";
+
+/* Class = "UIButton"; normalTitle = "◀︎Back"; ObjectID = "nZu-dl-RqD"; */
+"nZu-dl-RqD.normalTitle" = "◀︎Back";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "t4q-wf-xiT"; */
+"t4q-wf-xiT.normalTitle" = "1";
+
+/* Class = "UILabel"; text = "Calculation Result"; ObjectID = "xri-zH-OeI"; */
+"xri-zH-OeI.text" = "計算結果";
