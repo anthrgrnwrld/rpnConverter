@@ -12,7 +12,6 @@
 		3672DFB31B3E7D8200CAE40F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3672DFB11B3E7D8200CAE40F /* Main.storyboard */; };
 		3672DFB51B3E7D8200CAE40F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3672DFB41B3E7D8200CAE40F /* Images.xcassets */; };
 		3672DFB81B3E7D8200CAE40F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3672DFB61B3E7D8200CAE40F /* LaunchScreen.xib */; };
-		3672DFC41B3E7D8200CAE40F /* rpnCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3672DFC31B3E7D8200CAE40F /* rpnCalculatorTests.swift */; };
 		36C14B271B4D51EE002078FC /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36C14B201B4D51EE002078FC /* GoogleMobileAds.framework */; };
 		36C14B281B4D51EE002078FC /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 36C14B251B4D51EE002078FC /* README.txt */; };
 		36C14B2D1B4D5399002078FC /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36C14B2C1B4D5399002078FC /* AdSupport.framework */; };
@@ -25,7 +24,6 @@
 		36C14B3D1B4D543B002078FC /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36C14B3A1B4D543B002078FC /* MessageUI.framework */; };
 		36C14B3E1B4D543B002078FC /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36C14B3B1B4D543B002078FC /* StoreKit.framework */; };
 		36C14B3F1B4D543B002078FC /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36C14B3C1B4D543B002078FC /* SystemConfiguration.framework */; };
-		36D0B27A1B4F2CCE0067A0F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3672DFAF1B3E7D8200CAE40F /* ViewController.swift */; };
 		36E81F041B4F2F9B002FCB75 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36E81F031B4F2F9B002FCB75 /* GoogleMobileAds.framework */; };
 		36E839E11B509B6300FD1A04 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 36E839CC1B509B6300FD1A04 /* Contents.json */; };
 		36E839E21B509B6300FD1A04 /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 36E839CD1B509B6300FD1A04 /* Icon-40.png */; };
@@ -401,8 +399,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				36D0B27A1B4F2CCE0067A0F0 /* ViewController.swift in Sources */,
-				3672DFC41B3E7D8200CAE40F /* rpnCalculatorTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
